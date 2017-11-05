@@ -12,3 +12,4 @@ python-dateutil==2.6.1
 pytz==2017.2
 s3transfer==0.1.11
 six==1.11.0
+mongoengine==0.14.3
