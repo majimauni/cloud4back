@@ -109,7 +109,7 @@ WSGI_APPLICATION = 'cloudprojects.wsgi.application'
 
 _MONGODB_USER = 'jscardona12'
 _MONGODB_PASSWD = 'Menfis15'
-_MONGODB_HOST = 'ds121345.mlab.com:21345'
+_MONGODB_HOST = 'ds249565.mlab.com:49565'
 _MONGODB_NAME = 'proyecto1'
 _MONGODB_DATABASE_HOST = \
     'mongodb://%s:%s@%s/%s' \
